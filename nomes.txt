@@ -1,4 +1,5 @@
 maria
 jose
 joao
+clara
 bernadete
