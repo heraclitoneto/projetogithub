@@ -1,4 +1,5 @@
 maria
+clara
 jose
 joao
 bernadete
