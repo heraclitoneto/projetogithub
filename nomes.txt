@@ -1,4 +1,4 @@
-maria
-jose
-joao
-bernadete
+maria     -  33
+jose      -  12
+joao      -  55
+bernadete -  23
